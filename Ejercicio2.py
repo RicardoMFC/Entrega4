@@ -40,4 +40,3 @@ print(vehiculo)
 #Con clear eliminamos todos los elementos del diccionario
 vehiculo.clear()
 print(vehiculo)
-
